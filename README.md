@@ -6,6 +6,9 @@ TensorFlowを使用して画像内の「カップラーメン」を検出しま�
 ## 使い方
 https://www.petitmonte.com/python/ai_cup_ramen.html  
   
+## 目的  
+TensorFlowによるSSDの研究、実験です。ですが、今回のこれは「はじめの一歩」なプロジェクトです。
+  
 ## 参考文献
 Jwata/sushi_detector_datasetの「create_tf_record.py」を改変して使用しています。  
 Copyright (c) 2018 Junji Watanabe  
