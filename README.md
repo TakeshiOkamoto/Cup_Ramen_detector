@@ -11,7 +11,7 @@ TensorFlowによるSSD(Single shot multibox detector)の研究、実験です。
 オリジナルデータセットを使用した「はじめの一歩」的なプロジェクトなので、精度は求めていません。
   
 ## 注意事項  
-画像ファイルは研究目的以外で利用しないで下さい。再配布も禁止です。
+画像ファイルは研究/実験目的以外で利用しないで下さい。再配布も禁止です。
   
 ## 参考文献
 Jwata/sushi_detector_datasetの「create_tf_record.py」を改変して使用しています。  
