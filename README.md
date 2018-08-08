@@ -7,7 +7,8 @@ TensorFlowを使用して画像内の「カップラーメン」を検出しま�
 https://www.petitmonte.com/python/ai_cup_ramen.html  
   
 ## 目的  
-TensorFlowによるSSDの研究、実験です。オリジナルデータセットを使用した「はじめの一歩」的なプロジェクトなので、精度は求めていません。
+TensorFlowによるSSD(Single shot multibox detector)の研究、実験です。  
+オリジナルデータセットを使用した「はじめの一歩」的なプロジェクトなので、精度は求めていません。
   
 ## 注意事項  
 画像ファイルは研究目的以外で利用しないで下さい。再配布も禁止です。
